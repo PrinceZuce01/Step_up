@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308634498522",
+    "project_id": "step-up-5f573",
+    "storage_bucket": "step-up-5f573.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308634498522:android:1fbf72ec9edb6d03f3bce3",
+        "android_client_info": {
+          "package_name": "com.example.stepup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308634498522-32hnvveg1rtpqkjho7osrrk4o9h84i8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYqoeEbX_TLm5BlLXtQzLUQuuysxlfWNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308634498522-32hnvveg1rtpqkjho7osrrk4o9h84i8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

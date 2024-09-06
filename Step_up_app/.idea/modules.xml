@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Step_up.iml" filepath="$PROJECT_DIR$/.idea/modules/Step_up.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Step_up.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Step_up.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Step_up.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Step_up.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Step_up.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Step_up.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Step_up.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Step_up.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
